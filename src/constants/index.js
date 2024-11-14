@@ -117,29 +117,29 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Software Developer",
+    company_name: "Hitachi Vantara",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Jan 2023 - Dec 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Enhanced development of secure login systems incorporating two-factor authentication using Java and Spring Boot 3, significantly enhancing application security, while improving user engagement by 30% with a ReactJS-based user interface.",
+      "Built RESTful Web Services and GraphQL APIs for complex JSON/XML data in Spring Boot, improving system performance. Cut response time by 25% by creating a Golang-based API for scheduled PDF report generation.",
+      "Integrated Stripe payment gateway using Node.js and JavaScript, reducing transaction processing time by 20% and increasing payment flow reliability.",
+      "Optimized user experience with ReactJS infinite scrolling, resulting in 40% increase in interaction and session time on the platform.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Software Developer Intern",
+    company_name: "Smart Knower",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed and deployed scalable web applications using NodeJS and ReactJS, improving data processing efficiency by 75% and streamlining operational workflows.",
+      "Created REST APIs with Java and JavaScript to facilitate seamless data exchange between client and server, ensuring high availability and reduced latency.",
+      "Collaborated in an Agile team to perform system migration, reducing data redundancy by 70% and ensuring smooth transition to a new platform with optimized performance.",
+      "Engineered a lead flow management system using custom-built APIs, consolidating data from multiple platforms and reducing third- party dependencies by 94%.",
     ],
   },
   {
@@ -199,9 +199,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Advanced Course Registration System with Role-Based Access Control",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Developed a secure full-stack web app with ReactJS, Java, Spring Boot, and MySQL, implementing OAuth 2.0 and JWT for authentication, managing data in XML/JSON.",
     tags: [
       {
         name: "react",
@@ -220,9 +220,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Dynamic Resume Builder with Real-Time PDF Generation",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Designed an interactive resume-builder web app for 200+ students, generating downloadable PDFs. Built with HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL, featuring AJAX-based validation for efficiency.",
     tags: [
       {
         name: "react",
@@ -241,9 +241,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "COVID-19 Risk Detection and Visualization System",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Developed a COVID-19 detection app with JavaScript, ReactJS, and REST APIs, handling 500+ data entries with 90% accuracy. Integrated Chart.js for real-time visualization and responsive design, enhancing performance and accuracy.",
     tags: [
       {
         name: "nextjs",
